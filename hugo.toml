@@ -1,0 +1,17 @@
+baseURL = 'https://xcypress.com/'
+languageCode = 'en-us'
+title = 'XCypress - Mindful Living App'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Privacy Policy'
+    url = '/privacy-policy/'
+    weight = 2
+
+[params]
+  description = 'XCypress brings mindfulness and meditation to your daily life'
+  author = 'XCypress Team'

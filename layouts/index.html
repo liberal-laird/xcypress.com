@@ -1,0 +1,63 @@
+{{ define "main" }}
+<div class="hero-section">
+    <div class="container">
+        <h1 class="hero-title">{{ .Title }}</h1>
+        <p class="hero-subtitle">{{ .Params.description }}</p>
+
+        <div class="product-showcase">
+            <img src="/images/app-screenshot.png" alt="OMeditation App Interface" class="app-image">
+        </div>
+
+        <div class="cta-section">
+            <a href="#download-section" class="btn btn-primary">Download OMeditation</a>
+            <a href="#features-section" class="btn btn-secondary">Learn More</a>
+        </div>
+    </div>
+</div>
+
+<section id="features-section" class="features-section">
+    <div class="container">
+        <h2>Features of OMeditation</h2>
+        <div class="features-grid">
+            <div class="feature-card">
+                <h3>Guided Meditations</h3>
+                <p>Over 100 guided sessions for all levels, from beginners to advanced practitioners.</p>
+            </div>
+            <div class="feature-card">
+                <h3>Custom Timers</h3>
+                <p>Personalize your meditation experience with customizable timer settings.</p>
+            </div>
+            <div class="feature-card">
+                <h3>Progress Tracking</h3>
+                <p>Track your meditation streak, session history, and mindfulness growth.</p>
+            </div>
+            <div class="feature-card">
+                <h3>Offline Access</h3>
+                <p>Access your favorite meditations anytime, even without internet connection.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="about-section" class="about-section">
+    <div class="container">
+        <h2>About OMeditation</h2>
+        <p>Our mission is to make mindfulness accessible to everyone. OMeditation was created by a team passionate about mental wellness and the transformative power of meditation.</p>
+        <p>We believe that regular meditation practice can lead to greater peace, clarity, and well-being in daily life.</p>
+    </div>
+</section>
+
+<section id="download-section" class="download-section">
+    <div class="container">
+        <h2>Get OMeditation Today</h2>
+        <div class="app-stores">
+            <a href="#" class="app-store-btn">
+                <img src="/images/appstore-badge.svg" alt="Download on the App Store">
+            </a>
+            <a href="#" class="play-store-btn">
+                <img src="/images/google-play-badge.svg" alt="Get it on Google Play">
+            </a>
+        </div>
+    </div>
+</section>
+{{ end }}

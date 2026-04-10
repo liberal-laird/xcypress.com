@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container">
+    <article class="privacy-policy-content">
+        <header>
+            <h1>{{ .Title }}</h1>
+            <p class="date"><strong>Last Updated:</strong> {{ .Params.last_updated }}</p>
+        </header>
+
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </article>
+</div>
+{{ end }}

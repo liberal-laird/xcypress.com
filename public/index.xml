@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OMeditation - Find Your Inner Peace on XCypress - Mindful Living App</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in OMeditation - Find Your Inner Peace on XCypress - Mindful Living App</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy-for-xcypress&#34;&gt;Privacy Policy for XCypress&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Last Updated&lt;/strong&gt;: 2026-04-10&lt;/p&gt;&#xA;&lt;p&gt;This Privacy Policy describes how XCypress (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;us&amp;rdquo;, or &amp;ldquo;our&amp;rdquo;) handles your information when you use our meditation application (&amp;ldquo;OMeditation&amp;rdquo; or the &amp;ldquo;App&amp;rdquo;). We are committed to safeguarding your privacy and ensuring compliance with applicable data protection laws and Google Play policies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;information-we-do-not-collect&#34;&gt;Information We Do Not Collect&lt;/h2&gt;&#xA;&lt;p&gt;We want to be completely transparent: The OMeditation app does not collect any personal information from users. There are no login requirements, no account creation, and no collection of any personal data. The app functions completely offline without any data transmission to our servers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
